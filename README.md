@@ -264,3 +264,17 @@ Add these answers to the end of your submission note:
 1. What was the most useful piece of information in a traceback today?
 2. What is your environment confidence level: Red, Amber, or Green?
 3. Provide the first eight characters of your final commit hash.
+
+name:陳彥婷
+
+student ID:N96151029
+
+exact run commads:
+python -m pytest -q
+python -c "import src.lab01"
+git diff --check
+git status --short
+
+known limitations:
+因為是第一次接觸python跟powershell，我感受到自己基礎知識的不足。
+
