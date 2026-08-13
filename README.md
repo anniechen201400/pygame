@@ -1,2 +1,2 @@
-# phygame
+# pygame
 for class
